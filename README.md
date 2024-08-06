@@ -1,5 +1,3 @@
-# ![Development](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-
 # 💫 About Me:
 * 🔭 I'm a Full Stack Web Developer.
 * 🌱 Exploring new opportunities and challenges.
