@@ -17,10 +17,9 @@
 
 I'm a **Full Stack Developer** passionate about building web applications and bringing ideas to life with code.
 
-*   My main focus right now is developing **'flipas'**, a social network app. This project uses a modern tech stack (details below) and all the development is happening on my private account: `edufatouflipas`.
-*   I'm naturally curious and enjoy exploring new technologies and taking on interesting technical challenges.
-*   **Fun Fact:** Before transitioning into development, I spent many years working as a filmmaker and video editor!
-*   **Want to connect?** You can find me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-EduFatou-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/edufatou)
+*   I'm part of the development team of **'Flipas'**, a social network app. All the work is happening on my private account: `edufatouflipas`.
+*   **Fun Fact:** Before code development changed my life, I spent many years working as a filmmaker and video editor.
+*   **You can find me on LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-EduFatou-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/edufatou)
 
 # My Tech Stack
 
