@@ -1,7 +1,7 @@
 <div style="padding: 10px 0; margin-bottom: 15px;">
   <h2 style="color: #B80F0A; margin-bottom: 5px;">🚨 Heads up!</h2>
   <p style="font-size: 1.1em; margin-top: 0;">
-    Most of my recent development work is happening on a <strong>private</strong> GitHub account: <strong><code>edufatouflipas</code></strong>. I'm currently focused on building apps at<strong>'Flipas'</strong>, the company where I work.
+    Most of my recent development work is happening on a <strong>private</strong> GitHub account: <strong><code>edufatouflipas</code></strong>. I'm currently focused on building apps at <strong>Flipas</strong>, the company where I work.
   </p>
   <p>
     So, while this public profile might seem less active, I'm definitely busy coding elsewhere!
