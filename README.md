@@ -1,7 +1,7 @@
 <div style="padding: 10px 0; margin-bottom: 15px;">
   <h2 style="color: #B80F0A; margin-bottom: 5px;">🚨 Heads up!</h2>
   <p style="font-size: 1.1em; margin-top: 0;">
-    Most of my recent development work is happening on a <strong>private</strong> GitHub account: <strong><code>edufatouflipas</code></strong>. I'm currently focused on building <strong>'Flipas'</strong>, a social network application.
+    Most of my recent development work is happening on a <strong>private</strong> GitHub account: <strong><code>edufatouflipas</code></strong>. I'm currently focused on building apps at<strong>'Flipas'</strong>, the company where I work.
   </p>
   <p>
     So, while this public profile might seem less active, I'm definitely busy coding elsewhere!
@@ -17,7 +17,7 @@
 
 I'm a **Full Stack Developer** passionate about building web applications and bringing ideas to life with code.
 
-*   I'm part of the development team of **'Flipas'**, a social network app. All the work is happening on my private account: `edufatouflipas`.
+*   I'm part of the development team of **'Flipas'**, a company that builds B2B and SaaS apps. All the work is happening on my private account: `edufatouflipas`.
 *   **Fun Fact:** Before code development changed my life, I spent many years working as a filmmaker and video editor.
 *   **You can find me on LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-EduFatou-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/edufatou)
 
@@ -25,7 +25,7 @@ I'm a **Full Stack Developer** passionate about building web applications and br
 
 Here's an overview of the technologies I work with:
 
-**Currently Using for the 'flipas' Project:**
+**Currently working at Flipas:**
 
 ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Elysia](https://img.shields.io/badge/ElysiaJS-white?style=for-the-badge&logo=elysia&logoColor=black) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Gen%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
@@ -43,7 +43,7 @@ Here's an overview of the technologies I work with:
   <details>
     <summary>Click here for this account's stats (Edufatou)</summary>
     <br/>
-    <em>**Reminder:** These statistics reflect public activity on the `Edufatou` account only. As mentioned above, my primary development work on the 'flipas' project is happening on my private account: <strong><code>edufatouflipas</code></strong>.</em>
+    <em>**Reminder:** These statistics reflect public activity on the `Edufatou` account only. As mentioned above, my primary development work for Flipas is happening on my private account: <strong><code>edufatouflipas</code></strong>.</em>
     <br/><br/>
     <img src="https://github-readme-stats.vercel.app/api?username=Edufatou&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
     <br/><br/>
